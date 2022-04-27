@@ -1,0 +1,21 @@
+d3 deals in picture format SVG
+scalable Vector graphic
+have to be embedided in a web browser
+
+SCALE LINEAR
+extent
+brings back both min and max values
+.domain {[0, 100]}
+.range{[0, 1000}}
+
+0	0
+
+50	500
+
+75	750
+
+100	1000
+
+scaleBand()
+
+projecting a range of data on a 2

@@ -1,0 +1,19 @@
+GeoJSON
+
+specific keys and values that are always there
+
+set schema
+
+set columns
+base structure
+
+Easy to use with leaflet
+
+kaggle week 6- Geospatial Analysis
+
+usgs government survey 
+earthquakes
+location data
+
+ajax - designed to make request
+d3- make data driven documents

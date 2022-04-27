@@ -1,0 +1,19 @@
+leafletC:\Users\malac\SMU\SMU-DAL-VIRT-DATA-PT-12-2021-U-C\01-Lesson-Plans\15-Mapping-Web\1\Activities\05-Stu_Other_Markers\Unsolved\index.html
+C:\Users\malac\SMU\SMU-DAL-VIRT-DATA-PT-12-2021-U-C\01-Lesson-Plans\15-Mapping-Web\1\Activities\05-Stu_Other_Markers\Unsolved\logic.js
+similar to plotly
+
+data stroy with location needs a map
+
+leflet mapping soft ware
+
+heatmap of us drought levels
+
+still basic java script scripting
+
+map layers
+everything built up on a map is a layer
+
+maps should go in a boot strap grid
+
+base layers- con only contain based layer animation, can only have one on
+overlay layers- direction on dirving apps, markers, circles, as many as you want
